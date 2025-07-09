@@ -1,0 +1,8 @@
+export default function Home() {
+  return (
+    <div style={{ textAlign: 'center', padding: '50px' }}>
+      <h1>Selamat Datang ke TAS.DAR 🌿</h1>
+      <p>Sistem Coach AI anda kini sudah hidup dan bernafas.</p>
+    </div>
+  );
+}
