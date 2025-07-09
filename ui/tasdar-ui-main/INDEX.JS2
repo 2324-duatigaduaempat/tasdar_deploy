@@ -1,0 +1,8 @@
+export default function Home() {
+  return (
+    <div>
+      <h1>Selamat datang ke TAS.DAR 🌿</h1>
+      <p>Sistem ini sedang dibina dengan penuh kasih sayang.</p>
+    </div>
+  );
+}
